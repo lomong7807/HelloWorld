@@ -1,3 +1,4 @@
+# 👋 Hello World! 개발자를 위한, 개발자에 의한 커뮤니티 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=95CBF0&height=200&section=header&text=Hello%20World&fontSize=90)
 
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,9 +15,38 @@
 ![js](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-# HelloWorld
-HelloWorld 프로젝트
+## 프로젝트 소개
 
+- Hello World는 개발자를 위한 커뮤니티 공간입니다.
+- 개발자들끼리 모여 이야기하며 지식을 공유하고 일상을 공유할 수 있습니다.
+- 채용 공고를 통해 구인구직도 가능합니다.
+- 원하는 강의를 구매하여 수강할 수 있습니다.
+
+<br>
+
+## 프로젝트에서의 내 역할
+
+- **커뮤니티**
+  - 게시물, 댓글, 글 검색
+- **기능**
+  - 게시물 상세 페이지, 댓글과 대댓글 작성, 원하는 글 검색
+
+<br>
+
+## 개발 기간
+
+- 전체 개발 기간 : 2023-11-06 ~ 2023-12-08
+- 설계 및 UI 구현 : 2023-11-06 ~ 2023-11-10
+- 기능 구현 : 2023-11-13 ~ 2023-12-08
+
+<br>
+
+## 작업 관리
+- GitHub Projects와 Slack을 사용하여 진행 상황을 공유했습니다.
+- 아침엔 한번, 저녁에 한번 팀원들과 작업한 내용을 서로 공유하고, 작업 순서와 방향성에 대한 고민을 나눴습니다.
+- 프로젝트의 병합은 매일 이루어졌고, 배포는 주에 1번씩 버전 업을 하며 하였습니다.
+
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=95CBF0&height=200&section=footer&text=&fontSize=90)
 # react 필요 파일
