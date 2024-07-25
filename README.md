@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=95CBF0&height=300&section=header&text=Hello%20World&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=95CBF0&height=200&section=header&text=Hello%20World&fontSize=90)
 
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,7 +18,7 @@
 HelloWorld 프로젝트
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=95CBF0&height=300&section=footer&text=&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=95CBF0&height=200&section=footer&text=&fontSize=90)
 # react 필요 파일
 - 리액트 쿼리 : npm install @tanstack/react-query
 - 라우터 : npm install react-router-dom@6
